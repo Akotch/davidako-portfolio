@@ -38,8 +38,4 @@ If my portfolio resonates with you, I’d love to hear your feedback or discuss 
 - **Name**: David Akotchenoude
 - **Email**: dakotch1@yahoo.com
 - **GitHub**: [https://github.com/akotch](https://github.com/yourusername)
-- **Portfolio**: [https://davidako-portfolio.github.io](https://yourportfolio.com)
-
----
-
-Thank you for taking the time to explore my portfolio. Let’s build something amazing together!
+- **Portfolio**: [https://akotch.github.io/davidako-portfolio](https://yourportfolio.com)
